@@ -1,0 +1,218 @@
+@media screen and (max-width:1199px)
+{  
+    header .top ul {padding: 10px 50px 10px 0px;}
+    #cssmenu {padding: 0 50px 0 0px;}
+    .logo{padding: 10px 0 0 30px;}
+    .logo img {max-width: 300px;}    
+    .company_logo .all_logo{max-width: 265px;}
+    .company_logo .second_row img {max-width: 125px;}
+    .banner h1{left: 25px;}
+    .list{max-width: 800px;}
+    footer{padding: 70px 0 0px;}
+    footer .bottom span{font-size: 14px;}
+    footer .social_icon i{font-size:40px;}
+    footer .blog img{width: 70px;}
+    footer .blog_details h5{font-size: 14px;}
+    footer .footer_menu li a,footer .privacy li a{font-size: 16px;margin-bottom: 10px;}
+
+    /** About Us **/
+    .about_agent img{max-width: 100%;}
+    .video .blog_part img{height: 240px;}
+
+}
+
+
+@media screen and (max-width:991px)
+{
+    .logo {padding: 10px 0 0 15px;}
+    .logo img {max-width: 220px;}  
+    header .top ul {padding: 10px 10px 10px 0px;}
+    #cssmenu{padding: 0 20px 0 0px;}
+    #cssmenu > ul > li > a,#cssmenu ul ul li a{padding: 12px;font-size: 13px;}
+    #cssmenu li:hover > ul > li {height: 37px;}
+    .erning_potential{padding: 70px 0 25px;}
+    h2{font-size: 30px !important;}
+
+    .banner .bg,.banner .overlay{height:630px;}
+    .banner .banner_details p{max-width: 600px;}
+    .banner h1 {left:15px;}
+    .list {max-width: 600px;}
+    .list li::before{top: 0;left: -25px;height: 20px;width: 20px;}
+    .erning_potential .earn_part{padding-bottom:30px;}
+    .erning_potential .read_more {margin-top: 0px;}
+    .gallary .gallary_part .overlay p {line-height: 24px;margin: 10px auto;}
+    .term {height: 250px;}
+    .term .term_details {left: 50px;}
+
+    .company_logo .all_logo {max-width: 200px;}
+    .company_logo .second_row img {max-width: 100px;}
+    footer .footer_menu li a, footer .privacy li a {font-size: 14px;margin-bottom: 8px;}
+    footer .col-sm-6{margin-bottom:30px;}
+    footer .privacy {margin: 0px 0 20px;}
+
+    /**About start**/
+    .about_founder h2 {font-size: 46px !important;}
+    .video {padding: 50px 0 30px;}
+    .video .blog_part h4{padding: 7px 15px;}
+    .video .blog_part img {height: 220px;}
+    /**About End**/
+    
+    
+    .term_gallary .inner_gallary{width: 50%;}
+
+}
+
+@media screen and (max-width:767px)
+{
+    //.logo{position:absolute;top:0;left: 0;width:100%;height:46px;text-align:center;padding:10px 0 0 0 ;float:none}
+    .logo2{display:none}
+    nav{width:100%;}
+    #cssmenu{width:100%;top: -40px; padding: 0px;}
+    #cssmenu ul{width:100%;display:none;background-color: #000;}
+    #cssmenu ul li{width:100%;border-top:1px solid #444}
+    #cssmenu ul li:hover{background:#363636;}
+    #cssmenu ul ul li,#cssmenu li:hover > ul > li{height:auto}
+    #cssmenu ul li a,#cssmenu ul ul li a{width:100%;border-bottom:0}
+    #cssmenu > ul > li:hover, #cssmenu ul li.active:hover, #cssmenu ul li.active, #cssmenu ul li.has-sub.active:hover{border-bottom: 0px solid #E9731D;}
+
+    #cssmenu > ul > li{float:none}
+    #cssmenu ul ul li a{padding-left:25px}
+    #cssmenu ul ul li{background:#333!important;}
+    #cssmenu ul ul li:hover{background:#363636!important}
+    #cssmenu ul ul ul li a{padding-left:35px}
+    #cssmenu ul ul li a{color:#ddd;background:none}
+    #cssmenu ul ul li:hover > a,#cssmenu ul ul li.active > a{color:#fff}
+    #cssmenu ul ul,#cssmenu ul ul ul{position:relative;left:0;width:100%;margin:0;text-align:left}
+    #cssmenu > ul > li.has-sub > a:after,#cssmenu > ul > li.has-sub > a:before,#cssmenu ul ul > li.has-sub > a:after,#cssmenu ul ul > li.has-sub > a:before{display:none}
+    #cssmenu #head-mobile{display:block;padding:23px;color:#ddd;font-size:12px;font-weight:700}
+    .button{width:55px;height:46px;position:absolute;right:0;top:0px;cursor:pointer;z-index: 12399994;}
+    .button:after{position:absolute;top:22px;right:20px;display:block;height:8px;width:20px;border-top:2px solid #dddddd;border-bottom:2px solid #dddddd;content:''}
+    .button:before{-webkit-transition:all .3s ease;-ms-transition:all .3s ease;transition:all .3s ease;position:absolute;top:16px;right:20px;display:block;height:2px;width:20px;background:#ddd;content:''}
+    .button.menu-opened:after{-webkit-transition:all .3s ease;-ms-transition:all .3s ease;transition:all .3s ease;top:23px;border:0;height:2px;width:19px;background:#fff;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}
+    .button.menu-opened:before{top:23px;background:#fff;width:19px;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg)}
+    #cssmenu .submenu-button{position:absolute;z-index:99;right:0;top:0;display:block;border-left:1px solid #444;height:37px;width:46px;cursor:pointer}
+    #cssmenu .submenu-button.submenu-opened{background:#262626}
+    #cssmenu ul ul .submenu-button{height:34px;width:34px}
+    #cssmenu .submenu-button:after{position:absolute;top:18px;right:19px;width:8px;height:2px;display:block;background:#ddd;content:''}
+    #cssmenu ul ul .submenu-button:after{top:15px;right:13px}
+    #cssmenu .submenu-button.submenu-opened:after{background:#fff}
+    #cssmenu .submenu-button:before{position:absolute;top:15px;right:22px;display:block;width:2px;height:8px;background:#ddd;content:''}
+    #cssmenu ul ul .submenu-button:before{top:12px;right:16px}
+    #cssmenu .submenu-button.submenu-opened:before{display:none}
+    #cssmenu ul ul ul li.active a{border-left:none}
+    #cssmenu > ul > li.has-sub > ul > li.active > a,#cssmenu > ul ul > li.has-sub > ul > li.active > a{border-top:none}
+
+    h2 {font-size: 26px !important;}
+    .banner h1 {top:125px;max-width: 360px;font-size: 18px;line-height: 26px;}
+    .logo img {max-width: 320px;}
+    .list {max-width: 540px;}
+    .list li{font-size: 14px;}
+    .erning_potential .earn_details h3 {font-size: 30px;line-height: 15px;}
+    .gallary .gallary_part img {height: 325px;}
+    .term {height: 160px;}
+    .term .term_details {left: 20px;}
+    .company_logo {padding: 45px 0;}
+    .company_logo .second_row {margin-top: 45px;}
+    .company_logo .all_logo {max-width: 170px;}
+    .company_logo .second_row img {max-width: 90px;}
+
+    footer {padding: 30px 0 0px;}
+    footer h4{margin-bottom: 20px;}
+    footer .col-sm-6 {margin-bottom: 10px;}
+    footer .bottom .col-xs-12{float: left;text-align: left;}
+    footer .bottom ul{float: left !important;}
+    footer .bottom li{margin: 10px 10px 0 0px;}
+
+
+    /** About us **/
+    .about_agent .agent{flex-direction: column;}
+    .about_agent .agent_details{padding-bottom: 20px;}
+    .about_founder h2 {font-size: 40px !important;}
+    .video {padding: 30px 0 20px;}
+    .video .video_frame{margin: 10px 0 20px;}
+    .video .blog_part img{height: auto; max-width: 100%;}
+    .video .blog_part h4{padding: 15px 15px}
+    
+    /**team**/
+    .team {padding: 40px 0 !important;}
+    .agent_testimonial .testimonial_video {height: 350px;}
+    .agent_testimonial .testimonial_video img{max-width:100px;}
+    .agent_testimonial {padding: 50px 0 0;}
+    .agent_application {padding: 30px 0;}
+    .agent_application .blank_label {display: none;}
+    .agent_application form .form-group {margin-bottom: 25px;}
+}
+
+@media screen and (max-width:639px)
+{
+    h2 {font-size: 22px !important;}
+    .banner .banner_details p {max-width: 100%;padding: 0 15px;font-size: 14px;}
+    .banner .bg, .banner .overlay {height: 550px;}
+    .erning_potential {padding: 40px 0 25px;} 
+    .erning_potential p {font-size: 16px;margin-top: 10px;}
+    .list {max-width: 100%;padding: 0 0 0 30px;margin: 30px auto;}
+    .list li::before {top: 2px;}
+    .gallary .gallary_part{width: 100%;}
+    .company_logo .all_logo{max-width:50%;margin: 0 0 20px 0;float: left;height:50px;text-align: center;}     
+    .company_logo .all_logo img{max-height: inherit;max-width:80%;}     
+
+    .company_logo .second_row {margin-top: 20px;}
+    .company_logo .second_row .all_logo{max-width:50%;margin: 0 0 20px 0;float: left;text-align: center; min-height:100px;width: 100%;}
+    .company_logo .second_row .all_logo img{max-width:50%;}
+
+    /** about us **/
+    .erning_potential p {font-size: 14px;}
+    .about_founder{padding: 30px 0 40px;}
+    .about_founder h2 {font-size: 33px !important;} 
+    .video .video_frame{height:320px;}
+    .video .video_frame img{max-width: 80px;}
+    
+    /**team**/
+    .agent_testimonial .testimonial_video {height: 300px;}
+    .team {padding: 30px 0 !important;}
+    .agent_testimonial .test_img .test_details p {padding:30px 15px 15px;font-size: 14px;}
+}    
+
+@media screen and (max-width:479px)
+{
+    header .top .login.pull-right{width: 100%;}
+    header .login a{margin: 15px 0px 0 20px !important;float: right}
+    .logo img {max-width: 190px;}
+    .banner h1 {font-size: 15px;}
+    .banner .banner_details p{margin: 20px auto;}
+    .banner .down {margin: 20px 0 0 0;}
+    .list{margin: 30px auto 20px;}
+    .gallary .gallary_part img {height: 245px;}
+    .gallary .gallary_part h2{top: 20px;}
+    .gallary .text{top: 56%;}
+    .company_logo {padding: 45px 0 10px;}
+    .company_logo .all_logo,.company_logo .second_row .all_logo{max-width: 100%;margin: 0 0 20px 0;float: left;height: 100%;text-align: center;min-height: auto;}     
+    .company_logo .all_logo img{max-height: inherit;max-width:80%;}     
+    .company_logo .second_row .all_logo img{max-width: 50%;}
+
+    /** About Us **/
+    .about_founder h2 {font-size: 23px !important;}
+    .about_founder {padding: 20px 0 30px;}
+    .about_founder .about_founder_img img{margin: 15px auto; height: 170px; width: 170px;}
+    .about_founder p {padding: 15px 0px;max-width: 100%;font-size: 14px;}
+    .video p{margin-bottom: 10px;}
+    .video .video_frame {height: 250px;}
+    .video .video_frame img {max-width: 60px;}
+    
+    
+    /** team **/
+    .term_gallary .inner_gallary {width: 100%;}
+    .agent_testimonial .test_details span {font-size: 20px;margin-bottom: 20px;}
+    .agent_application h2 {margin-bottom: 20px;}
+    .agent_application form textarea.form-control {height: 195px;}
+}
+
+@media screen and (max-width:360px)
+{
+
+}
+
+@media screen and (max-width:320px)
+{
+
+}

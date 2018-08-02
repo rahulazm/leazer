@@ -1,0 +1,231 @@
+/*
+    Theme Name: Leazer Agent Portal
+    Theme URI: 
+    Description: Hello this is My Theme Version 5.0
+    Version: 5.0
+    Author: Kaushik K.
+    Author URI: 
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+.wpcf7-response-output.wpcf7-display-none.wpcf7-validation-errors{float:left;width:100%;}
+.wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok{float:left;width:100%;}
+.day-contents a{color:#000;}
+
+/* Header Top Bar */
+header .top {
+    background-color: #4ECCDA;
+}
+.full_width {
+    float: left;
+    width: 100%;
+}
+header .top ul {
+    text-align: right;
+    padding: 6px 70px 6px 0px;
+}
+header .top ul li {
+    display: inline-block;
+}
+header .top ul li a {
+    color: #fff;
+    margin: 0 0 0 10px;
+    line-height: 12px;
+    text-transform: uppercase;
+}
+header .login a {border: 1px solid #fff;float: left;padding: 3px 15px;border-radius: 30px;margin: 0 0px 0 20px !important;background-color: transparent;font-weight: 400;font-size: 14px;}
+header .login a:hover {background-color: #FF8E2C;border-color: #FF8E2C;color: #fff !important;}
+.bottom-header{display: inline-block;}
+/* Help Page */
+.page-template-tpl-help .support_bs .nav-tabs > li.active > a, .support_bs .nav-tabs > li.active > a:hover, .support_bs .nav-tabs > li.active > a:focus{background:#FF954B !important;color:#fff !important;}
+.page-template-tpl-help .support_bs .nav-tabs{border-bottom: 1px solid #FF954B !important;}
+.page-template-tpl-help .support_bs a{color:#FF954B !important;}
+.page-template-tpl-help .support_bs .btn{float: left;width: auto;margin-right: 10px;margin-bottom: 10px;}
+/* TLG Envent Single Page Begin */
+.jst-rght {text-align: center !important;}
+.powered-by-event-espresso-credit{display:none !important;}
+.currency-code{vertical-align:middle !important;}
+textarea#comment {width: 100%;float: left;margin: 10px 0px 10px 0px;}
+input#submitcomment {display: block;margin: 10px 0 10px 0;}
+.ee-clearfix .ee-event-datetimes-li{list-style:none;}
+.single-espresso_events .event-content {background: #E6E6E6;margin:10px 0 20px 0;border:1px solid #C6C7C7;}
+.smaller-text{color:#000 !important;}
+.comment-author img{float:left;margin-right:10px;}
+.even {background:#E6E6E6;}
+.odd{background:#CBDCF0;}
+
+
+/* Search Page Design */
+.search_form {position: relative;}
+.img_search {position: absolute;left: 12px;top:11px;width: 20px;height: 20px;}
+.input_search{border: 1px solid #DAD9D9 !important;padding-left:36px !important;border-radius:30px;}
+
+/* Help Page */
+.support_bs .nav > li > a {
+    position: relative;
+    display: block;
+    padding: 12px 25px;
+    font-size: 25px;
+    font-weight: 700;
+}
+#wpsp_front_raised_by{display: none;}
+#tblFontEndTickets tr td:last-child {
+    display: none;
+}
+#filter_by_search_front {
+    border: 1px solid #F3F0F0;
+    border-radius: 40px;
+    padding-left: 12px;
+    background-image: url(http://192.168.0.114/leazer/agent/wp-content/themes/leazer/images/trainingSearchIcon.png);
+    background-repeat: no-repeat;
+    background-position: 5px;
+    padding-left: 40px;
+}
+#filter_by_status_front, #filter_by_category_front, #filter_by_no_of_ticket_front, #filter_by_selection_front {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+    border: 1px solid #F3F0F0;
+    box-shadow: none;
+    border-radius: 30px;
+    padding: 10px 10px 10px 0px;
+    width: 100% !important;
+}
+#filter_by_no_of_ticket_front {
+    width: 100px !important;
+}
+#filter_searchby_front table{margin-top: 0px !important;color:#DCDBDB;}
+#wpspBodyFrontTicketFilter table {color:#DCDBDB;}
+.page-template-tpl-help .support_bs .btn{margin-top: 10px;}
+.wpspBtnApplyFrontTicketFilter{display: block !important;}
+.filter_item td {border: none;color: #151417 !important;font-weight: 400 !important;font-size: 17px !important;}
+#filter_by_status_front,#filter_by_selection_front, #filter_by_category_front, #filter_by_no_of_ticket_front,#filter_by_search_front{color:#DAD9D9 !important;}
+#filter_by_status_front,#filter_by_selection_front, #filter_by_category_front, #filter_by_no_of_ticket_front{text-align: center;}
+#wpsp_front_id, #wpsp_front_status, #wpsp_front_subject,#wpsp_front_category,#wpsp_front_assign,#wpsp_front_priority,#wpsp_front_updated {font-size: 20px; background-color: #F5F5F5 !important;}
+.table-striped > tbody > tr:nth-of-type(2n+1){background-color: #fff !important;}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th{border:none !important;line-height:2.5 !important;}
+.support_bs .table-hover > tbody > tr:hover > td, .support_bs .table-hover > tbody > tr:hover > th{background-color: #fff !important;}
+.support_bs .table-striped > tbody > tr:nth-child(2n+1) > td, .support_bs .table-striped > tbody > tr:nth-child(2n+1) > th {background-color: #fff !important;}
+.support_bs .pager li > a, .support_bs .pager li > span {
+    display: inline-block;
+    padding: 10px 37px !important;
+    background-color: #F5F5F5 !important;
+    border: 1px solid #ddd !important;
+    border-radius: 30px;
+    color:#818181 !important;
+}
+.support_bs .pager li{background-color: #4ECCDA;padding: 10px;color: #fff;border: 1px solid #4FCCDA;border-radius: 24px;width: 100%;}
+.support_bs .pager .next,.support_bs .pager .previous{background-color: #fff !important;border:none !important;}
+.support_bs .label{padding:0.6em 1.5em .6em !important;}
+
+
+.bill-form label{
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 0px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.width90{
+    width: 90%;
+    margin: 0 auto;
+}
+.width90 .sidebar-widget{margin-top: -100px;}
+
+.quote-center-sidebar .sidebar-widget{
+    margin: 0px 0px;
+}
+.quote-center-sidebar .side-menu {
+    margin: 0px 0px 50px !important;
+}
+.car-sidebar .sidebar-widget{
+    margin-top: -100px;
+}
+.carrier-contact-content h4{
+    line-height: 1.5;
+}
+.width80 {
+    width: 80%;
+    margin: 0 auto;
+}
+.contwrapper h3 {
+    font-size: 29px;
+    line-height: 1.3;
+    margin-left: -100px;
+}
+.contwrapper strong{margin-left: -100px !important;display: inline-block;}
+.imgwrapper img {
+    padding-top: 100px;
+}
+
+/* Door knokers page */
+.door_form {
+    background: url(http://s24637.p656.sites.pressdns.com/agent/wp-content/uploads/sites/2/2017/11/door-knockers-bg.jpg);
+    float: left;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 30px;
+}
+.delivery-header {
+    margin-top: 20px;
+    float: left;
+    width: 100%;
+}
+.door_form input[type="text"]{
+    background: transparent;
+    margin-top: 0px !important;
+    margin-left: 20px;
+}
+.door_form label {
+    display: inline-block;
+    text-align: left;
+    float: left;
+    min-width: 19%;
+}
+.door_form .ginput_container{
+    float: left;
+    margin: 0;
+}
+.door_form .bill-form input{margin-top: 0px;}
+
+.door_form .gf_right_field {
+    float: right;
+    width: 29%;
+    display: inline-block;
+}
+.door_form .gf_left_field{
+    width: 68%;
+    display: inline-block;
+}
+.door_form div.ginput_container{margin-top: 0px !important;width: 78%;}
+.door_form .gform_wrapper {margin: 0 !important;}
+.door_form li{margin-top: 0;}
+.width85{width:89%;margin: 0 auto;}
+body .gform_wrapper ul li.gfield{margin-top: 0px !important;}
+.door_form input[type=text]{
+    border-bottom-color:  #2E2E20 !important;
+}
+.door_form #input_3_23{
+    margin-top: 40px;
+}
+.door_form input[type=checkbox]{
+    padding: 8px !important;
+    border: 2px solid #2E2E20 !important;
+    border-radius: 3px !important;
+}
+.door_form .gfield_checkbox label{
+    font-size: 20px !important;
+    padding-left: 10px !important;
+}
+.door_form label.gfield_label{font-weight: 300 !important;}
+.extra-lines-door p{font-size: 12px;}
+.gfield_radio input[type=radio]{
+    padding: 7px;
+    border: 1px solid;
+    border-radius: 50%;
+    margin:0px;
+}
+#input_3_7_4{margin-top: 9px;}

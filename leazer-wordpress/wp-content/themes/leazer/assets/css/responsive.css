@@ -1,0 +1,1070 @@
+@media only screen and (max-width: 1420px) and (min-width: 1200px) {
+
+}
+@media only screen and (max-width: 1199px) {
+.logo img {
+    height: 53px;
+}
+.logo-text-line {
+    font-size: 12px;
+    margin-top: 5px;
+}
+.primary-menu ul li {
+    padding:20px 10px 5px;
+}
+.primary-menu ul li a {
+    font-size:13px;
+}
+.primary-menu ul li ul {
+    top:45px;
+    min-width:187px;
+}
+.content-wrapper {
+    padding:45px 15px;
+}
+.tlg-calender > p {
+    margin: 0px 0px 15px;
+}
+.list-headers h4 {
+    font-size: 20px;
+}
+.list-headers h4:first-child {
+    margin-left: 35%;
+}
+.list-headers h4:nth-child(2) {
+    margin-left: 15%;
+}
+.home-agent-image, .home-agent-name, .home-agent-ap {
+    padding: 0px 15px;
+}
+.home-agent-apcount {
+    padding: 0px 0px 0px 30px;
+}
+.top-footer {
+    padding:50px 0px;
+}
+.social-links li img {
+    height: 35px;
+    width: 35px;
+}
+.social-links li {
+    padding: 0px 2px;
+}
+/****** Login PAGE CODE STARTS ******/
+.login_content {
+    padding: 100px 50px;
+}
+.login_form_content {
+    padding: 40px 50px;
+}
+/****** Login PAGE CODE ENDS ******/
+/****** VIDEO TRAINING PAGE CODE STARTS ******/
+.search-form input {
+    width: 178px;
+}
+.subject-video > iframe {
+    height:354px;
+}
+/****** VIDEO TRAINING PAGE CODE ENDS ******/
+/****** CLASSES PAGE CODE STARTS ******/
+.classes-content .nav.nav-tabs li a, .classes-content .nav.nav-tabs li a:hover {
+    font-size: 21px;
+}
+.search-form input {
+    width: 172px;
+}
+/****** CLASSES PAGE CODE ENDS ******/
+/****** CONTACT PAGE CODE STARTS ******/
+.file-image img {
+    height: auto;
+    width: 100%;
+}
+/****** CONTACT PAGE CODE ENDS ******/
+/****** FORMS DEPOT PAGE CODE STARTS ******/
+.form-depot-accordian .accordion-section-title {
+    font-size: 21px;
+}
+.form-depot-accordian .accordian-plus {
+	border: medium none;
+	color: #fa7f2a;
+	float: right;
+	font-size: 40px;
+	height: auto;
+	line-height: 30px;
+	margin: 0px;
+	vertical-align: middle;
+	width: auto;
+	background-color: transparent;
+}
+/****** FORMS DEPOT PAGE CODE ENDS ******/
+/****** AUDIO TRAINING PAGE CODE STARTS ******/
+.audio-box {
+    display: inline-block;
+    width: 76%;
+}
+/****** AUDIO TRAINING PAGE CODE ENDS ******/
+/****** LEADS PAGE CODE STARTS ******/
+.leads-content > img {
+    margin-right: 5%;
+    margin-bottom:5%;
+}
+/****** LEADS PAGE CODE ENDS ******/
+/****** PAY INVOICES PAGE CODE STARTS ******/
+.card-fields select {
+    padding: 10px 8px;
+    margin: 0px 20px 30px 0px;
+    width: 133px;
+}
+.card-fields #cvv-field {
+    width: 125px;
+}
+/****** PAY INVOICES PAGE CODE ENDS ******/
+/****** DOOR KNOCKERS PAGE CODE STARTS ******/
+.attempt-check-div {
+    padding:0px;
+}
+.attempt-check-div label::before, label.attempt-label::after {
+    left: 50px;
+}
+/****** DOOR KNOCKERS PAGE CODE ENDS ******/
+}
+@media only screen and (max-width: 991px) {
+.mm-listview > li:not(.mm-divider)::after {
+    left: 0px;
+}
+.logo img {
+    height: 70px;
+}
+.logo-text-line {
+    font-size:15px;
+}
+.primary-menu {
+    display:none;
+}
+.middle-menu ul li {
+    padding: 0% 4%;
+}
+.page-title h1 {
+    padding-left:15px;
+    padding-right:15px;
+}
+.content h3 {
+    font-size: 22px;
+    line-height:normal
+}
+.tlg-calender > p, .monthly-leader-board > p {
+    font-size: 16px;
+    text-align:center;
+}
+.event-overlay img {
+    margin-right: 8px;
+    width: 32px;
+}
+.home-event-month, .home-event-year {
+    margin-left: 39px;
+}
+.home-event-date {
+    font-size: 26px;
+}
+.event-content {
+    padding: 15px 15px 20px;
+}
+.home-count {
+    font-size: 18px;
+    padding: 14px;
+    width: 46px;
+}
+.home-agent-image, .home-agent-name, .home-agent-ap {
+    padding: 0px 9px;
+}
+.home-agent-name, .home-agent-apcount, .home-agent-ap {
+    font-size: 14px;
+}
+.list-headers h4 {
+    font-size: 16px;
+}
+.list-headers h4:first-child {
+    margin-left: 38%;
+}
+.list-headers h4:nth-child(2) {
+    margin-left: 11%;
+}
+.home-agent-apcount {
+    padding: 0px 0px 0px 20px;
+}
+#my-icon {
+    display: inline;
+}
+.primary-menu{
+    display: none;
+}
+footer {
+    background-size:cover;
+}
+.top-footer {
+    padding: 40px 0px 15px;
+}
+.footer-menu {
+    margin-bottom: 45px;
+}
+.top-footer .col-sm-6 {
+    height:280px;
+}
+/****** Login PAGE CODE STARTS ******/
+.login_content {
+    padding: 100px 30px;
+}
+.login_form_content {
+    padding: 40px 30px;
+}
+a#back_to_login {
+    float:right !important;
+    padding:10px 15px !important;
+}
+/****** Login PAGE CODE ENDS ******/
+/****** PRODUCT STATE AVAILABILITY GUIDE PAGE CODE STARTS ******/
+.product-state-column-content h4 {
+    font-size: 40px;
+}
+.download-div > span {
+     margin: 0px 20px;
+}
+/****** PRODUCT STATE AVAILABILITY GUIDE PAGE CODE ENDS ******/
+/****** VIDEO TRAINING PAGE CODE STARTS ******/
+.subject-video > iframe {
+    height:229px;
+}
+/****** VIDEO TRAINING PAGE CODE ENDS ******/
+/****** CLASSES PAGE CODE STARTS ******/
+.classes-content .nav.nav-tabs li a, .classes-content .nav.nav-tabs li a:hover {
+    font-size: 21px;
+}
+.search-form input {
+    width: 170px;
+    margin-left:5px;
+}
+.chapter-unit {
+    margin-left: 10px;
+}
+.module-chapter-list a {
+    display: block;
+    margin-bottom: 10px;
+}
+/****** CLASSES PAGE CODE ENDS ******/
+/****** CONTACT PAGE CODE STARTS ******/
+.contact-file-upload .right-div, .contact-file-upload .left-div {
+    padding: 10px 20px;
+}
+.file-image img {
+    height: auto;
+    width: 100%;
+    padding-right:20px;
+}
+.contact-file-upload a {    
+    font-size: 14px;
+}
+.file-name {
+    padding-left: 20px;
+}
+.contact-file-upload {
+    margin: 40px 0px 50px;
+}
+#map {
+    height: 350px;
+}
+/****** CONTACT PAGE CODE ENDS ******/
+/****** WEBINARS PAGE CODE STARTS ******/
+.webinar-overlay-content span.date {
+    font-size: 18px;
+}
+.webinar-overlay-content h4 {
+    font-size: 21px;
+}
+/****** WEBINARS PAGE CODE ENDS ******/
+/****** AUDIO TRAINING PAGE CODE STARTS ******/
+.audio-subject {
+    padding-left: 20px;
+}
+.subject-audio > img {
+    width: 100px;
+}
+.audio-box > h4 {
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+.audio-box h4 span {
+    margin: 0px 0px 10px;
+}
+.audio-box > audio {
+    margin-left: 10px;
+    width: auto;
+}
+.audio-downbtn {
+    padding: 0px;
+    margin: 0px 0px 0px 10px;
+}
+/****** AUDIO TRAINING PAGE CODE ENDS ******/
+/****** LEADS PAGE CODE STARTS ******/
+.leads-content > img {
+    margin-right: 3%;
+    margin-bottom:3%;
+}
+.leads-options-accordian {
+    margin: 35px 0px 20px;
+}
+/****** LEADS PAGE CODE ENDS ******/
+/****** DOOR KNOCKERS PAGE CODE STARTS ******/
+.attempt-check-div label::before, label.attempt-label::after {
+    left: 30px;
+}
+.attempt-form-div {
+    padding: 25px;
+}
+.attempt-form label {
+    width: 25%;
+}
+.attempt-form input {
+    width: 74%;
+}
+/****** DOOR KNOCKERS PAGE CODE ENDS ******/
+}
+@media only screen and (max-width: 767px) {
+#my-icon {
+    display: inline;
+    margin-top: 5px;
+}
+.primary-menu{
+    display: none;
+}
+.header-parts {
+    position:static;
+    background:#272828 none repeat scroll 0px 0px;
+}
+.bottom-header > img.banner-shadow {
+    display:none;
+}
+.logo {
+    margin-top:0px;
+    padding:20px;
+}
+.logo img {
+    height: 53px;
+}
+.logo-text-line {
+    font-size: 12px;
+    margin-top: 5px;
+}
+.hamburger {
+    padding-right: 0px;
+}
+.middle-menu {
+  padding: 10px 0px;
+}
+.middle-menu ul li {
+    display: block;
+    padding: 0% 2%;
+    margin: 10px 0px;
+}
+.content-wrapper {
+    padding: 60px 15px;
+}
+.tlg-calender {
+    display: block;
+    float: none;
+    margin: 0 auto 40px;
+    width: 70%;
+}
+.monthly-leader-board {
+    display: block;
+    float: none; 
+    margin: 0px auto 20px;
+    width: 70%;
+}
+.top-footer .row > div {
+    width: 70%;
+    display: block;
+    margin: 0px auto;
+}
+.footer-menu {
+    margin:0px auto 25px;
+}
+.top-footer p a {
+  padding: 0px 15px;
+}
+.blog-text {
+    display: inline;
+    text-align:left;
+}
+.blog-entry {
+    margin: 0px auto;
+}
+.copyright {
+    float: none;
+    text-align: center;
+    margin-bottom:5px;
+}
+.bottom-footer-social {
+    float: none;
+    text-align: center;
+}
+.bottom-footer {
+    padding: 10px 0px;
+}
+/****** Login PAGE CODE STARTS ******/
+.pop_up_logo {
+    display: block;
+    width: 80%;
+    margin: 0px auto 20px;
+    text-align:center;
+}
+.pop_up_logo > img {
+    max-width: 300px;
+}
+.logo-text-line {
+    display:none;
+}
+.login_content {
+    display: block;
+    width: 80%;
+    margin:0px auto;
+    padding: 100px 50px;
+}
+.login_popup_box {
+    display:block;
+}
+.login_form_content {
+    display: block;
+    padding: 40px 50px;
+    margin:0px auto;
+    width: 80%;
+}
+a#back_to_login {
+    float:right !important;
+    padding:10px 15px !important;
+}
+/****** Login PAGE CODE ENDS ******/
+/****** TLG2, TLG3 & Inventory Sheets PAGE CODE STARTS ******/
+.content-wrapper {
+    width: 80%;
+    margin: 0px auto;
+}
+.content h3 {
+    text-align:center;
+    line-height:normal;
+}
+.inventory-list-item {
+    text-align: center;
+}
+.inventory-list-item h4 {
+    font-size: 30px;
+}
+.page-title h2 {
+    color:#ff822b;
+    font-size:27px;
+}
+.page-title h1 {
+    color:#ff822b;
+    margin: 0px 0px 10px;
+    padding-left:15px;
+    padding-right:15px;   
+}
+.download-div {
+    text-align: center;
+}
+.download-div a.viewbtn {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+}
+.download-div > span {
+    display: block;
+    margin: 10px;
+}
+.download-details {
+    display: block;
+}
+.download-div .downloadbtn {
+    display: block;
+}
+.download-file-details {
+    position:static;
+    line-height:21px;
+}
+.inventory-lists {
+  margin-bottom:0px;
+}
+/****** TLG2, TLG3 & Inventory Sheets PAGE CODE ENDS ******/
+/****** PRODUCT STATE AVAILABILITY GUIDE PAGE CODE STARTS ******/
+.product-state-column-image {
+    display:block;
+    width: 100%;
+}
+.product-state-column-content {
+    display: block;
+    width: 100%;
+    padding:20px 0px;
+}
+.product-state-column-content h4 {
+    font-size: 25px;
+    text-align:center;
+}
+.product-state-column-content p {
+    text-align:center;
+}
+/****** PRODUCT STATE AVAILABILITY GUIDE PAGE CODE ENDS ******/
+/****** VIDEO TRAINING PAGE CODE STARTS ******/
+.video-subject {
+    border-left: none;
+    margin-bottom: 20px;
+    padding-left: 0;
+}
+.subject-video {
+    padding: 25px 0px 20px;
+}
+.subject-video > iframe {
+    height: 300px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.subject-title {
+    border-bottom: 5px solid #ff822b;
+    padding-bottom: 5px;
+    text-align: center;
+    width: 100%;
+}
+.subject-video h4 {
+    text-align: center;
+    width: 100%;
+    font-size:20px;
+}
+.subject-video .video-code {
+    font-size:14px;
+    margin: 0px;
+    text-align: center;
+    width: 100%;
+}
+.subject-video .video-time {
+    float: none;
+    font-size: 21px;
+    text-align: center;
+    width: 100%;
+}
+.subject-video p {
+    text-align: center;
+}
+.search-form input {
+    width: 200px;
+}
+/****** VIDEO TRAINING PAGE CODE ENDS ******/
+/****** TRAINING DOCUMENTS PAGE CODE STARTS ******/
+.inventory-list-item {
+    padding: 15px 0px 20px;
+}
+/****** TRAINING DOCUMENTS PAGE CODE ENDS ******/
+/****** CLASSES PAGE CODE STARTS ******/
+#tlg_agent_orientation > iframe {
+    height: 300px !important;
+}
+.classes-content .nav.nav-tabs li a, .classes-content .nav.nav-tabs li a:hover {
+    font-size: 16px;
+    padding:10px;
+}
+/****** CLASSES PAGE CODE ENDS ******/
+/****** CONTACT PAGE CODE STARTS ******/
+.contact-file-upload .right-div, .contact-file-upload .left-div {
+    padding: 20px 40px;
+    width:100%;
+    margin:10px 0px;
+}
+.file-image img {
+    height: auto;
+    width: 100%;
+    padding-right:20px;
+}
+.contact-file-upload a {    
+    font-size: 18px;
+}
+.file-name {
+    padding-left: 20px;
+}
+.contact-file-upload {
+    margin: 60px 0px 70px;
+}
+.contact-details, .contact-form {
+    width: 100%;
+    margin:10px 0px;
+}
+#map {
+    height: 400px;
+}
+/****** CONTACT PAGE CODE ENDS ******/
+/****** WEBINARS PAGE CODE STARTS ******/
+.webinar-overlay-content span.date {
+    font-size: 20px;
+}
+.webinar-overlay-content h4 {
+    font-size: 25px;
+}
+.webinars-list-items {
+    width: 100%;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    position: relative;
+}
+.webinars-list-items:nth-child(2n), .webinars-list-items:nth-child(2n+1) {
+	margin-right: auto;
+        margin-left: auto;
+}
+/****** WEBINARS PAGE CODE ENDS ******/
+/****** AUDIO TRAINING PAGE CODE STARTS ******/
+.audio-subject {
+    padding-left: 20px;
+}
+.subject-audio > img {
+    width: 150px;
+    float: none;
+    display: block;
+    margin: 0px auto;
+}
+.audio-box {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+/****** AUDIO TRAINING PAGE CODE ENDS ******/
+/****** LEADS PAGE CODE STARTS ******/
+.leads-content > img {
+    margin-right: 0%;
+    margin-bottom: 30px;
+    float: none;
+    width: 100%;
+}
+.leads-content h3 {
+    font-size: 22px;
+    text-align:left;
+}
+.accordion-section-content {
+    padding: 15px 15px 15px 0px;
+}
+.leads-options-accordian {
+    margin: 35px 0px 20px;
+}
+/****** LEADS PAGE CODE ENDS ******/
+/****** HELP CASE PAGE CODE STARTS ******/
+.ticket_table_sec {
+    width:100%;
+    overflow:scroll;
+}
+.ticket_table_sec table {
+    min-width:768px;
+}
+/****** HELP CASE PAGE CODE ENDS ******/
+/****** DOOR KNOCKERS PAGE CODE STARTS ******/
+.door-header {
+    font-size: 25px !important;
+    margin-bottom:30px !important;
+}
+.attempt-form {
+    display: block;
+    width: 100%;
+}
+.attempt-form label {
+    width: 100%;
+}
+.attempt-form input {
+    width: 100%;
+    padding: 5px 10px;
+}
+.attempt-line {
+    margin: 15px 0px;
+}
+.attempt-form-div {
+    padding: 25px;
+}
+.attempt-check-div {
+    display: block;
+    width: 100%;
+    padding: 0px;
+    text-align: center;
+}
+.attempt-check-div label {
+    padding-left: 30px;
+    display: block;
+    max-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.attempt-check-div label::before, label.attempt-label::after {
+    left: 0px;
+    top:-3px;
+}
+/****** DOOR KNOCKERS PAGE CODE ENDS ******/
+}
+@media only screen and (max-width: 574px) {
+#my-icon {
+    display: inline;
+    margin-top: 5px;
+}
+.primary-menu{
+    display: none;
+}
+.header-parts {
+    position:static;
+    background:#272828 none repeat scroll 0px 0px;
+}
+.bottom-header > img.banner-shadow {
+    display:none;
+}
+.logo {
+    margin-top: 0px;
+    padding: 8px 12px;
+}
+.logo img {
+    height: 53px;
+}
+.logo-text-line {
+    display:none;
+}
+.hamburger {
+    padding-right: 0px;
+}
+.content-wrapper {
+    padding: 25px 15px 40px;
+}
+.tlg-calender {
+    display: block;
+    float: none;
+    width: 100%;
+}
+.list-headers h4 {
+    margin-bottom:10px;
+    margin-top:15px;
+    font-size:14px;
+}
+.list-headers h4:first-child {
+    margin-left: 30%;
+}
+.list-headers h4:nth-child(2) {
+    margin-left: 14%;
+}
+.home-agent {
+    padding: 6px 0px;
+    margin-bottom:8px;
+}
+.home-count {
+    display:none;
+}
+.home-agent-image, .home-agent-name, .home-agent-ap {
+    padding: 0px 7px;
+}
+.page-title {
+    position: static;
+    margin-top:30px;
+}
+.page-title h2 {
+    font-size: 18px;
+    padding:0px 10px;
+}
+.page-title h1 {
+    font-size: 14px;
+    padding:0px 10px;
+}
+.content h3 {
+    text-align:center;
+}
+.tlg-calender > p {
+    margin: 0px;
+    text-align:center;
+}
+.home-event-month, .home-event-year {
+    margin-left: 0px;
+}
+.monthly-leader-board {
+    display: block;
+    float: none;
+    width: 100%;
+    margin-top:40px;
+}
+.top-footer .row > div {
+    width: 100%;
+    display: block;
+    margin: 0px auto 30px;
+}
+.top-footer .col-sm-6 {
+    height: auto;
+}
+/****** Login PAGE CODE STARTS ******/
+.pop_up_logo {
+    padding: 0px 15px;
+}
+.pop_up_logo img {
+    width:100%;
+}
+.login_content {
+    display: block;
+    width: 100%;
+    margin:0px auto;
+    padding: 60px 15px;
+    min-height:0px;
+}
+.login_content h2 {
+    font-size: 55px;
+    line-height:60px;
+}
+.login_popup_box {
+    display:block;
+}
+.login_form_content {
+    display: block;
+    padding: 30px 15px;
+    margin:0px auto;
+    width: 100%;
+}
+.forgot_pwd a, .remember_me_login label {
+    font-size: 13px;
+}
+a#back_to_login {
+    float:right !important;
+    padding:10px 15px !important;
+}
+/****** Login PAGE CODE ENDS ******/
+/****** TLG2, TLG3 & Inventory Sheets PAGE CODE STARTS ******/
+.content h3 {
+    line-height:normal;
+}
+.inventory-list-item h4 {
+    font-size: 26px;
+}
+.page-title h2 {
+    color:#ff822b;
+    font-size:22px;
+    margin-top:0px;
+}
+.page-title h1 {
+    color:#ff822b;
+    margin: 0px 0px 10px;
+    padding-left:15px;
+    padding-right:15px;
+}
+/****** TLG2, TLG3 & Inventory Sheets PAGE CODE ENDS ******/
+.content-wrapper {
+    width: 100%;
+    margin: 0px auto;
+}
+.bill-form input[name="state"] {
+    margin-right: 0%;
+    width: 100%;
+}
+.bill-form input[name="zip"] {
+  margin-left: 0%;
+  width: 100%;
+}
+/****** QUOTE CENTER PAGE CODE STARTS ******/
+.quote-center-content .accordion-section-title {
+    font-size: 16px;
+    padding-left: 20px;
+}
+.quote-center-content .accordion-section-content {
+    padding: 30px 20px;
+}
+/****** QUOTE CENTER PAGE CODE ENDS ******/
+/****** PRODUCT STATE AVAILABILITY GUIDE PAGE CODE STARTS ******/
+.product-state-column-image {
+    display:block;
+    width: 100%;
+}
+.product-state-column-content {
+    display: block;
+    width: 100%;
+    padding:20px 0px;
+}
+.product-state-column-content h4 {
+    font-size: 25px;
+}
+/****** PRODUCT STATE AVAILABILITY GUIDE PAGE CODE ENDS ******/
+/****** VIDEO TRAINING PAGE CODE STARTS ******/
+.subject-video > iframe {
+    height: 200px;
+}
+/****** VIDEO TRAINING PAGE CODE ENDS ******/
+/****** CONTACT PAGE CODE STARTS ******/
+.contact-file-upload {
+    margin: 20px 0px 30px;
+}
+.file-name {
+    padding-left: 20px;
+}
+.contact-file-upload a {
+    font-size: 14px;
+}
+.file-image img {
+    height: auto;
+    width: 100%;
+    padding-right: 10px;
+}
+.file-name {
+    padding-left: 10px;
+}
+.contact-content h4 {	
+    margin: 0px;
+}
+.contact-file-upload {
+    margin: 20px 0px 10px;
+}
+.contact-file-upload .right-div, .contact-file-upload .left-div {
+    padding: 10px 10px;
+    width: 100%;
+    margin: 10px 0px;
+}
+.contact-input-text, .contact-input-email {
+    display: inline-block;
+    width: 100%;
+    float: none;
+    margin-bottom:10px;
+}
+.contact-text textarea {
+    margin-top: 0px;
+}
+.contact-details, .contact-form {
+    width: 100%;
+    margin: 20px 0px;
+}
+#map {
+    height: 300px;
+}
+/****** CONTACT PAGE CODE ENDS ******/
+/****** WEBINARS PAGE CODE STARTS ******/
+.webinar-overlay-content span.date {
+    font-size: 16px;
+}
+.webinar-overlay-content h4 {
+    font-size: 18px;
+}
+.webinars-list-items {
+    width: 100%;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    position: relative;
+}
+.webinars-list-items:nth-child(2n), .webinars-list-items:nth-child(2n+1) {
+	margin-right: 0px;
+        margin-left: 0px;
+}
+.webinar-overlay {
+    padding: 15px;
+}
+/****** WEBINARS PAGE CODE ENDS ******/
+/****** AUDIO TRAINING PAGE CODE STARTS ******/
+.audio-subject {
+    padding-left: 0px;
+    border-left: 0px;
+}
+.audio-box {
+    margin:10px 0px;
+}
+.audio-box > h4 {
+    font-size: 20px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.audio-box > audio {
+    margin-left: 0px;
+    width: auto;
+}
+.audio-downbtn {
+    margin-top:10px;
+}
+/****** AUDIO TRAINING PAGE CODE ENDS ******/
+/****** Calender PAGE CODE STARTS ******/
+.calen_blog_date {
+    display: inline-block;
+    width: 100%;
+    padding: 0 0 20px;
+    text-align: center;
+    border-right: none;
+    border-bottom: 1px solid #d7d7d7;
+    margin-right: 0;
+    box-sizing: border-box;
+}
+.calen_blog_cont_sec {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.clndr {
+    display: block;
+    width: 100%;
+    padding: 20px 10px;
+}
+/****** Calender PAGE CODE ENDS ******/
+/****** LEADS PAGE CODE STARTS ******/
+.leads-content > img {
+    margin-right: 0%;
+    margin-bottom: 30px;
+    float: none;
+    width: 100%;
+}
+.leads-content h3 {
+    font-size: 22px;
+    text-align:left;
+}
+.accordion-section-content {
+    padding: 15px 0px;
+}
+.leads-options-accordian {
+    margin: 30px 0px 15px;
+}
+.leads-options-accordian h4 {
+    font-size: 22px;
+    line-height:normal;
+}
+.accordian-plus, .accordian-minus {
+    margin-right: 10px;
+}
+.accordion-section-title img {
+    margin-right: 10px;
+}
+.accordion-section-title {
+    font-size: 17px;
+}
+.accordion-section {
+    margin-bottom: 10px;
+}
+.lead-guidelines h4 {
+    font-size: 22px;
+    line-height:normal;
+    letter-spacing: 1px;
+}
+.lead-guidelines h5 {
+    line-height:normal;
+}
+/****** LEADS PAGE CODE ENDS ******/
+/****** PAY INVOICES PAGE CODE STARTS ******/
+.card-fields select {
+    padding: 10px 5px;
+    margin: 0px 10px 30px 0px;
+    width: 123px;
+}
+.card-fields select:nth-child(2n) {
+    margin:0px;
+}
+.card-fields #cvv-field {
+    width: 123px;
+}
+.secure-img-div img {
+    margin:10px;
+}
+/****** PAY INVOICES PAGE CODE ENDS ******/
+/****** DOOR KNOCKERS PAGE CODE STARTS ******/
+.door-header {
+    font-size: 22px !important;
+    margin-bottom: 25px !important;
+}
+.delivery-header h4 {
+    font-size: 17px;
+}
+/****** DOOR KNOCKERS PAGE CODE ENDS ******/
+}

@@ -1,0 +1,225 @@
+/*
+    Theme Name: Front Website
+    Theme URI: 
+    Description: Hello this is My Theme Version 5.0
+    Version: 5.0
+    Author: Kaushik K.
+    Author URI: 
+    License: GNU General Public License v2 or later
+    License URI: http://www.gnu.org/licenses/gpl-2.0.html
+    */
+
+
+
+
+    #gform_1 .address_country,#gform_1 .ginput_container_select{position:relative;}
+    #gform_1 .address_country:after,#gform_1 .ginput_container_select:after{position:absolute;content:"\f107";font-family:fontawesome;right: 10px;top: -10px;font-size: 30px;pointer-events: none;}
+    #gform_1 .address_country .input_1_3_6,#gform_1 .ginput_container_select #input_1_10,#gform_1 .ginput_container_select #input_1_11{   border: none;    appearance: none; -webkit-appearance: none;    -moz-appearance: none;border-bottom:1px solid #ccc;font-family: "noto_sansregular";}
+
+    #field_1_13{text-align:center;}
+    #field_1_13 .gfield_label{display:block;text-align: left;}
+    #field_1_13 .ginput_container{
+    	text-align: center;
+    	float: none;
+    	margin: 0px auto;
+    	display: inline-block;
+    	width: 170px;
+    }
+
+    .page-id-3015 .gform_wrapper label.gfield_label
+    {
+    	color: #040000;
+    	font-family: "noto_sansregular";
+    	font-size: 16px;
+    	font-weight: 400;
+    }
+
+    #input_1_13{width:100%;}
+
+    #gform_1 .gform_wrapper .gform_footer{text-align:center;}
+
+    .gform_wrapper.gf_browser_chrome span.address_country {
+    	margin-top: 5px !important
+    }
+
+    .page-id-3015 .ginput_container ginput_container_phone
+    {
+    	
+    	-moz-border-bottom-colors: none;
+    	-moz-border-left-colors: none;
+    	-moz-border-right-colors: none;
+    	-moz-border-top-colors: none;
+    	border-color: -moz-use-text-color -moz-use-text-color #b6b6b5;
+    	border-image: none;
+    	border-radius: 0;
+    	border-style: none none solid;
+    	border-width: medium medium 1px;
+    	box-shadow: none;
+    	color: #808080;
+    	font-family: "noto_sansregular" !important;;
+    	font-size: 16px !important;
+    	font-weight: 400;
+    }
+
+    .page-id-3015 .ginput_container ginput_container_select
+    {
+    	
+    	font-family: "noto_sansregular" !important;
+    	color: #808080 !important;
+    }
+
+
+    #gform_1 input[type="text"]{border:none;border-bottom:1px solid #ccc; font-family: "noto_sansregular";}
+    #gform_1 input:focus{outline:0px}
+    #gform_1 .gform_footer{text-align:center;}
+
+    #content{
+    	padding: 4% 10%;
+    	float: left;
+    	width: 100%;
+    }
+    #gform_2 .gform_footer.top_label input {
+    	background-color: #5ad0de;
+    	border: 1px solid #5ad0de;
+    	border-radius: 0 !important;
+    	color: #fff;
+    	font-size: 13px;
+    	text-transform: uppercase;
+    	width: auto;
+    }
+    #gform_2 .gform_footer.top_label input[type="submit"] {
+    	font-weight: normal;
+    	font-family: "noto_sansregular";
+    	padding: 10px 80px;
+    	width: 200px;
+    }
+
+    #gform_2 .gform_footer.top_label input[type="submit"]:hover {
+    	background-color: #ff822b;
+    	border: 1px solid #ff822b;
+    }
+
+    #gform_2 .gform_footer.top_label {
+    	margin-top: 3%;
+    	text-align: center;
+    }
+
+
+    #gform_2 .ginput_container.ginput_container_textarea{
+    	border: 1px solid #606060 !important;
+    	padding: 10px 15px !important;
+    	font-family: "noto_sansregular";
+    	height: 196px;
+    	margin-top: 2%;
+    	width: 100%;
+    } 
+
+
+
+    #gform_2 .ginput_container.ginput_container_email{
+    	border: 1px solid #606060 !important;
+    	padding: 10px 15px !important;
+    	font-family: "noto_sansregular";
+    } 
+
+    #gform_2 .ginput_container.ginput_container_text{
+    	border: 1px solid #606060 !important;
+    	padding: 10px 15px !important;
+    	font-family: "noto_sansregular";
+    }
+
+    #gform_2 .medium {
+    	border: none;
+    	outline : 0px !important;
+    }
+    #gform_2 .medium:focus {
+    	border: none;
+    	outline : 0px !important;
+    }
+
+    .page-id-3013 .gform_wrapper .gform_footer
+    {
+    	padding: 0px 0px 0px !important;
+    }
+
+    .page-id-3013 .gform_wrapper .top_label .gfield_label{
+    	display: none !important;
+    }
+
+    .page-id-3015 .name_last input[type="text"], .page-id-3015 .name_first input[type="text"] {
+    	-moz-border-bottom-colors: none;
+    	-moz-border-left-colors: none;
+    	-moz-border-right-colors: none;
+    	-moz-border-top-colors: none;
+    	border-color: -moz-use-text-color -moz-use-text-color #b6b6b5;
+    	border-image: none;
+    	border-radius: 0;
+    	border-style: none none solid;
+    	border-width: medium medium 1px;
+    	box-shadow: none;
+    	color: #808080;
+    	font-family: "noto_sansregular" !important;;
+    	font-size: 16px !important;
+    	font-weight: 400;
+    }
+
+    .gform_wrapper .field_sublabel_below .ginput_complex.ginput_container label
+    {
+    	display : none !important;
+    }
+    .page-id-3015 .ginput_full input[type="text"], .page-id-3015 .ginput_left input[type="text"], .page-id-3015 .ginput_right input[type="text"]
+    {
+    	-moz-border-bottom-colors: none;
+    	-moz-border-left-colors: none;
+    	-moz-border-right-colors: none;
+    	-moz-border-top-colors: none;
+    	border-color: -moz-use-text-color -moz-use-text-color #b6b6b5;
+    	border-image: none;
+    	border-radius: 0;
+    	border-style: none none solid;
+    	border-width: medium medium 1px;
+    	box-shadow: none;
+    	color: #808080;
+    	font-family: "noto_sansregular" !important;;
+    	font-size: 16px !important;
+    	font-weight: 400;
+    }
+
+    .page-id-3015 .ginput_complex.ginput_container.no_prefix.has_first_name.no_middle_name.has_last_name.no_suffix.gf_name_has_2.ginput_container_name.gfield_trigger_change,.page-id-3015 .ginput_full input[type="text"], .page-id-3015 .ginput_left input[type="text"], .page-id-3015 .ginput_right input[type="text"] {
+    	margin-bottom: 55px !important;
+    }
+
+    .page-id-3015 .ginput_right address_country{
+    	bottom: -10px;
+    	color: #818181;
+    	content: "";
+    	font-family: fontawesome;
+    	font-size: 30px;
+    	pointer-events: none;
+    	position: absolute;
+    	right: 10px;
+    }
+
+    .page-id-3015 .ginput_right address_country select{
+    	-moz-appearance: none;
+    	-moz-border-bottom-colors: none;
+    	-moz-border-left-colors: none;
+    	-moz-border-right-colors: none;
+    	-moz-border-top-colors: none;
+    	border-color: -moz-use-text-color -moz-use-text-color #b6b6b5;
+    	border-image: none;
+    	border-style: none none solid;
+    	border-width: medium medium 1px;
+    	color: #808080;
+    	cursor: pointer;
+    	font-family: "noto_sansregular";
+    	float: left;
+    	width: 100%;
+    }
+
+    .page-id-3015 ginput_container ginput_container_phone .medium
+    {
+    	border: none !important;
+    	border-bottom: 1px solid #ccc !important;
+    	
+    }

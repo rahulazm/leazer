@@ -1,0 +1,446 @@
+@media screen and (max-width:1199px)
+{  
+    /**index Start**/
+    header .top ul {padding: 10px 50px 10px 0px;}
+    #cssmenu {padding: 0 50px 0 0px;}
+    .logo{padding: 10px 0 0 30px;}
+    .logo img {max-width: 300px;}    
+    .company_logo .all_logo{max-width: 265px;}
+    .company_logo .second_row img {max-width: 125px;}
+    .banner h1{left: 25px;}
+    .list{max-width: 800px;}
+    footer{padding: 70px 0 0px;}
+    footer .bottom span{font-size: 14px;}
+    footer .social_icon i{font-size:40px;}
+    footer .blog img{width: 70px;}
+    footer .blog_details h5{font-size: 14px;}
+    footer .footer_menu li a,footer .privacy li a{font-size: 16px;margin-bottom: 10px;}
+    /**index End**/
+
+    /** About Us start**/
+    .about_agent img{max-width: 100%;}
+    .video .blog_part img{height: 240px;}
+    /** About Us End**/
+    
+    /** Services Start**/    
+    .protection_bg{height: 400px;}
+    .middle {height: 280px;}
+    /** Services End**/
+    
+    /** Testimonial Start**/
+    .border-top{left: 60px;max-width: 787px;}
+    .border-top.two {max-width: 827px;}
+    .testimonial_page .first,.testimonial_page .c_top,.testimonial_page .text{height: 300px;}
+    .c_video .video_frame{height: 280px;}
+    .c_video .video_frame img{max-width: 70px;}
+    /** Testimonial End**/
+    
+    /** Blog Start **/
+    .blog-left {
+        width: 18%;
+    }
+    .blog-right {
+        width: 82%;
+    }
+    /** Blog End **/
+    
+}
+
+
+@media screen and (max-width:991px)
+{
+    /**index Start**/
+    .logo {padding: 10px 0 0 15px;}
+    .logo img {max-width: 220px;}  
+    header .top ul {padding: 10px 10px 10px 0px;}
+    #cssmenu{padding: 0 20px 0 0px;}
+    #cssmenu > ul > li > a,#cssmenu ul ul li a{padding: 12px;font-size: 13px;}
+    #cssmenu li:hover > ul > li {height: 37px;}
+    .erning_potential{padding: 70px 0 25px;}
+    h2{font-size: 30px !important;}
+    .banner .bg,.banner .overlay{height:630px;}
+    .banner .banner_details p{max-width: 600px;}
+    .banner h1 {left:15px;}
+    .list {max-width: 600px;}
+    .list li::before{top: 0;left: -25px;height: 20px;width: 20px;}
+    .erning_potential .earn_part{padding-bottom:30px;}
+    .erning_potential .read_more {margin-top: 0px;}
+    .gallary .gallary_part .overlay p {line-height: 24px;margin: 10px auto;}
+    .term {height: 250px;}
+    .term .term_details {left: 50px;}
+    .company_logo .all_logo {max-width: 200px;}
+    .company_logo .second_row img {max-width: 100px;}
+    footer .footer_menu li a, footer .privacy li a {font-size: 14px;margin-bottom: 8px;}
+    footer .col-sm-6{margin-bottom:30px;}
+    footer .privacy {margin: 0px 0 20px;}
+    /**index End**/
+
+    /**About start**/
+    .about_founder h2 {font-size: 46px !important;}
+    .video {padding: 50px 0 30px;}
+    .video .blog_part h4{padding: 7px 15px;}
+    .video .blog_part img {height: 220px;}
+    /**About End**/
+    
+    .term_gallary .inner_gallary{width: 50%;}
+
+    /** Services Start**/
+    .middle {height: 100%;}
+    .middle .col-md-6{display: block;}
+    .protection h2 {margin-bottom: 20px;}
+    .protection_bg {height: 330px;}
+    .protection p{text-align: center;}
+    /** Services End**/
+    
+    /**testimonial Start**/
+    .testimonial_page{padding: 20px 0 0;}
+    .testimonial_page .first, .testimonial_page .c_top, .testimonial_page .text {height: 100%;}
+    .testimonial_page .client{position: inherit;text-align: center;}
+    .testimonial_page .text{text-align: center;margin: 20px 0 40px 0;float: left;}
+    .testimonial_page .text h2{text-align: center;margin: 10px 0 5px 0;font-size: 25px !important;}
+    .testimonial_page .text p::before {height: 20px;width: 20px;left: -10px;}
+    .border-top,.border-top.one {left: 0 !important;max-width: 100% !important;top: -20px;}
+    .c_video .video_frame{max-width: 100%;margin: 20px 0;height: 330px;}     
+    .testimonial_banner{padding: 30px 0;}
+    /**testimonial End**/
+    
+    /* Conference Start*/
+    .regi_left,.regi_center,.regi_right{width: 100%;}
+    .regi_center p{ padding: 40px 20px 0 15px;}
+    .regi_right{padding-top: 60px;}
+    .registration_top{padding-top: 60px;}
+    .venue_main p{font-size: 20px; padding-bottom: 30px;}
+    .regi_innertitle h2,.even .regi_innertitle h2{font-size: 30px; line-height: 38px}
+    .regi_innertitle p{font-size: 16px;
+        line-height: 18px;
+    }
+    .regi_inner ul li{line-height: 20px;}
+    /* Conference End*/
+    
+}
+
+@media screen and (max-width:767px)
+{
+    /** index Start **/
+    .logo2{display:none}
+    nav{width:100%;}
+    #cssmenu{width:100%;top: -40px; padding: 0px;}
+    #cssmenu ul{width:100%;display:none;background-color: #000;}
+    #cssmenu ul li{width:100%;border-top:1px solid #444}
+    #cssmenu ul li:hover{background:#363636;}
+    #cssmenu ul ul li,#cssmenu li:hover > ul > li{height:auto}
+    #cssmenu ul li a,#cssmenu ul ul li a{width:100%;border-bottom:0}
+    #cssmenu > ul > li:hover, #cssmenu ul li.active:hover, #cssmenu ul li.active, #cssmenu ul li.has-sub.active:hover{border-bottom: 0px solid #E9731D;}
+
+    #cssmenu > ul > li{float:none}
+    #cssmenu ul ul li a{padding-left:25px}
+    #cssmenu ul ul li{background:#333!important;}
+    #cssmenu ul ul li:hover{background:#363636!important}
+    #cssmenu ul ul ul li a{padding-left:35px}
+    #cssmenu ul ul li a{color:#ddd;background:none}
+    #cssmenu ul ul li:hover > a,#cssmenu ul ul li.active > a{color:#fff}
+    #cssmenu ul ul,#cssmenu ul ul ul{position:relative;left:0;width:100%;margin:0;text-align:left}
+    #cssmenu > ul > li.has-sub > a:after,#cssmenu > ul > li.has-sub > a:before,#cssmenu ul ul > li.has-sub > a:after,#cssmenu ul ul > li.has-sub > a:before{display:none}
+    #cssmenu #head-mobile{display:block;padding:23px;color:#ddd;font-size:12px;font-weight:700}
+    .button{width:55px;height:46px;position:inherit;right:0;top:0px;cursor:pointer;z-index: 12399994;}
+    .button:after{position:absolute;top:22px;right:20px;display:block;height:8px;width:20px;border-top:2px solid #dddddd;border-bottom:2px solid #dddddd;content:''}
+    .button:before{-webkit-transition:all .3s ease;-ms-transition:all .3s ease;transition:all .3s ease;position:absolute;top:16px;right:20px;display:block;height:2px;width:20px;background:#ddd;content:''}
+    .button.menu-opened:after{-webkit-transition:all .3s ease;-ms-transition:all .3s ease;transition:all .3s ease;top:23px;border:0;height:2px;width:19px;background:#fff;-webkit-transform:rotate(45deg);-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-o-transform:rotate(45deg);transform:rotate(45deg)}
+    .button.menu-opened:before{top:23px;background:#fff;width:19px;-webkit-transform:rotate(-45deg);-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-o-transform:rotate(-45deg);transform:rotate(-45deg)}
+    #cssmenu .submenu-button{position:absolute;z-index:99;right:0;top:0;display:block;border-left:1px solid #444;height:37px;width:46px;cursor:pointer}
+    #cssmenu .submenu-button.submenu-opened{background:#262626}
+    #cssmenu ul ul .submenu-button{height:34px;width:34px}
+    #cssmenu .submenu-button:after{position:absolute;top:18px;right:19px;width:8px;height:2px;display:block;background:#ddd;content:''}
+    #cssmenu ul ul .submenu-button:after{top:15px;right:13px}
+    #cssmenu .submenu-button.submenu-opened:after{background:#fff}
+    #cssmenu .submenu-button:before{position:absolute;top:15px;right:22px;display:block;width:2px;height:8px;background:#ddd;content:''}
+    #cssmenu ul ul .submenu-button:before{top:12px;right:16px}
+    #cssmenu .submenu-button.submenu-opened:before{display:none}
+    #cssmenu ul ul ul li.active a{border-left:none}
+    #cssmenu > ul > li.has-sub > ul > li.active > a,#cssmenu > ul ul > li.has-sub > ul > li.active > a{border-top:none}
+
+    h2 {font-size: 26px !important;}
+    .banner h1 {top:125px;max-width: 360px;font-size: 18px;line-height: 26px;}
+    .logo img {max-width: 320px;}
+    .list {max-width: 540px;}
+    .list li{font-size: 14px;}
+    .erning_potential .earn_details h3 {font-size: 30px;line-height: 15px;}
+    .gallary .gallary_part img {height: 325px;}
+    .term {height: 160px;}
+    .term .term_details {left: 20px;}
+    .company_logo {padding: 45px 0;}
+    .company_logo .second_row {margin-top: 45px;}
+    .company_logo .all_logo {max-width: 170px;}
+    .company_logo .second_row img {max-width: 90px;}
+
+    footer {padding: 30px 0 0px;}
+    footer h4{margin-bottom: 20px;}
+    footer .col-sm-6 {margin-bottom: 10px;}
+    footer .bottom .col-xs-12{float: left;text-align: left;}
+    footer .bottom ul{float: left !important;}
+    footer .bottom li{margin: 10px 10px 0 0px;}
+    /** index End **/
+    
+
+
+    /** About us Start **/
+    .about_agent .agent{flex-direction: column;}
+    .about_agent .agent_details{padding-bottom: 20px;}
+    .about_founder h2 {font-size: 40px !important;}
+    .video {padding: 30px 0 20px;}
+    .video .video_frame{margin: 10px 0 20px;}
+    .video .blog_part img{height: auto; max-width: 100%;}
+    .video .blog_part h4{padding: 15px 15px}
+    /** About us End **/
+    
+    /**team Start**/
+    .team {padding: 40px 0 !important;}
+    .agent_testimonial .testimonial_video {height: 350px;}
+    .agent_testimonial .testimonial_video img{max-width:100px;}
+    .agent_testimonial {padding: 50px 0 0;}
+    .agent_application {padding: 30px 0;}
+    .agent_application .blank_label {display: none;}
+    .agent_application form .form-group {margin-bottom: 25px;}
+    .agent_testimonial .test_img .test_details p{margin: 15px 0 15px;}
+    .agent_testimonial .test_details span{margin-bottom: 20px;}
+    /**team Start**/
+    
+    /** Services Start **/
+    .protection_term {padding: 35px 0 30px 0;}
+    .protection p,.protection_box p,.protection_term_details p{font-size: 14px; line-height: 24px;}
+    .protection_bg {height: 300px;}
+    /** Services End **/
+    
+    /** testimonial Start **/
+    .testimonial_page .text{margin: 20px 20px 40px;}
+    .testimonial_page .text p,.testimonial_banner p{font-size: 14px;}
+    .testimonial_page .text h2{font-size: 20px !important;}    
+    /** testimonial End **/
+    
+    /** Contact US Start **/
+
+    .contact-info .col-md-4.col-sm-4 {
+        margin-bottom: 15px;
+    }
+    .contact-info {
+        padding: 50px 15px 30px;
+    }
+
+    .contact-input-text, .contact-input-email {
+        width: 100%;
+        float: none;
+    }
+    .contact-input-email, .contact-text textarea {
+        margin-top: 15px;
+    }
+
+    .contact-submit {
+        margin-top: 15px;
+    }
+    /** Contact US End **/
+    /** Blog Start **/    
+    .blog-thumbnail {
+        width:290px;
+        padding:10px;
+        margin:0px auto;
+    }
+    .blog-text-block {
+        width:268px;
+        left:10px;
+        bottom:10px;
+    }
+    .search-blog input {
+        font-size: 16px;
+        width: 80%;
+    }
+    .blog-left{
+        width: 18%;
+    }
+    .blog-right{
+        width: 82%;
+    }
+    .more-blog {
+        margin: 60px 0 20px;
+    }
+    .blog-content .row .col-sm-4:nth-child(2) {
+        margin: 30px 0;
+    }
+    .blog-name{
+        font-size: 18px;
+    }
+    .blog-cat{
+        font-size: 14px;   
+    }
+    /** Blog End **/    
+    
+    /* Conference Start*/
+    .regi_center p{ padding: 30px 20px 0 15px;}
+    .regi_right{padding-top: 30px;}
+    .registration_top{padding-top: 30px;}
+    .venue_main{padding: 30px 0 40px;}
+    .venue_main p{    font-size: 16px;
+        padding-bottom: 20px;
+        line-height: 24px;
+        max-width: inherit;}
+        .venue_main h2{padding-bottom: 25px; font-size: 26px}
+        .regi_color{width: 100%; padding: 20px;}
+        .regi_innertitle,.regi_inner{width: 100%; border-bottom: 1px solid #2c2f3b;}
+        .regi_box{border: 0;}
+        .regi_inner ul{padding-left: 20px}
+        .regi_innertitle{padding: 15px 0; margin-bottom: 15px;}
+        .regi_inner{margin-bottom: 15px; border-left: 0; padding: 0 0 15px 0}
+        .registration_top{padding: 40px 0;}
+        /* Conference End*/
+    }
+
+    @media screen and (max-width:639px)
+    {
+        /** index Start **/
+        h2 {font-size: 22px !important;}
+        .banner .banner_details p {max-width: 100%;padding: 0 15px;font-size: 14px;}
+        .banner .bg, .banner .overlay {height: 550px;}
+        .erning_potential {padding: 40px 0 25px;} 
+        .erning_potential p {font-size: 16px;margin-top: 10px;}
+        .list {max-width: 100%;padding: 0 0 0 30px;margin: 30px auto;}
+        .list li::before {top: 2px;}
+        .gallary .gallary_part{width: 100%;}
+        .company_logo .all_logo{max-width:50%;margin: 0 0 20px 0;float: left;text-align: center;}     
+        .company_logo .all_logo img{max-height: inherit;max-width:80%;}     
+
+        .company_logo .second_row {margin-top: 20px;}
+        .company_logo .second_row .all_logo{max-width:50%;margin: 0 0 20px 0;float: left;text-align: center; min-height:100px;width: 100%;}
+        .company_logo .second_row .all_logo img{max-width:50%;}
+        /** index End **/
+
+        /** about us **/
+        .erning_potential p {font-size: 14px;}
+        .about_founder{padding: 30px 0 40px;}
+        .about_founder h2 {font-size: 33px !important;} 
+        .video .video_frame{height:320px;}
+        .video .video_frame img{max-width: 80px;}
+        .banner{height: 550px;}
+        .banner .down{padding: 30px 0 0 0;}
+        
+        /** about End **/
+        
+        /**team**/
+        .agent_testimonial .testimonial_video {height: 300px;}
+        .team {padding: 30px 0 !important;}
+        .agent_testimonial .test_img .test_details p {font-size: 14px;margin: 15px 40px 15px;}
+        .agent_application form .row.address .form-group,.agent_application form .form-group{margin-bottom: 15px;}
+        /** team End **/
+        
+        /** Services Start **/
+        .protection {padding: 30px 0;}
+        .protection h2 {margin-bottom: 10px;}
+        .protection_bg {height: 230px;}
+        /** Services End **/
+        
+        /** testimonial Start **/
+        .testimonial_page .text {margin: 20px;}
+        .c_video .video_frame{height: 260px;}
+        /** testimonial Start **/
+        
+        /* Conference Start*/
+        .left_Rcontent p{max-width: 305px; font-size: 13px;}
+        .orange_txt{line-height: 26px; font-size: 16px;}
+        .orange_bg {
+            padding: 20px 0;
+        }
+        /* Conference End*/
+    }    
+
+    @media screen and (max-width:479px)
+    {
+        /** Index Start **/
+        header .top .login.pull-right{width: 100%;}
+        header .login a{margin: 15px 0px 0 20px !important;float: right}
+        .logo img {max-width: 190px;}
+        .banner h1 {font-size: 15px;}
+        .banner .banner_details p{margin: 20px auto;}
+        .banner .down {margin: 20px 0 0 0;}
+        .list{margin: 30px auto 20px;}
+        .gallary .gallary_part img {height: 245px;}
+        .gallary .gallary_part h2{top: 20px;}
+        .gallary .text{top: 56%;}
+        .company_logo {padding: 45px 0 10px;}
+        .company_logo .all_logo,.company_logo .second_row .all_logo{max-width: 100%;margin: 0 0 20px 0;float: left;height: 100%;text-align: center;min-height: auto;}     
+        .company_logo .all_logo img{max-height: inherit;max-width:80%;}     
+        .company_logo .second_row .all_logo img{max-width: 50%;}
+        /** Index End **/
+
+        /** About Us **/
+        .about_founder h2 {font-size: 23px !important;}
+        .about_founder {padding: 20px 0 30px;}
+        .about_founder .about_founder_img img{margin: 15px auto; height: 170px; width: 170px;}
+        .about_founder p {padding: 15px 0px;max-width: 100%;font-size: 14px;}
+        .video p{margin-bottom: 10px;}
+        .video .video_frame {height: 250px;}
+        .video .video_frame img {max-width: 60px;}
+        /** About Us End**/
+        
+        
+        /** team Start**/
+        .term_gallary .inner_gallary {width: 100%;}
+        .agent_testimonial .test_details span {font-size: 20px;margin-bottom: 20px;}
+        .agent_application h2 {margin-bottom: 20px;}
+        .agent_application form textarea.form-control {height: 195px;}
+        .agent_testimonial .test_img .test_details p {margin: 15px 20px 15px;}
+        .agent_testimonial .test_img .test_details p::after {left: -16px;}
+        /** team end **/
+        
+        /** Services Start **/
+        .protection {padding: 20px 0;}
+        .protection_bg {height: 170px;}
+        .protection_box p {padding: 10px;}
+        /** Services End **/
+        
+        /** testimonial Start **/
+        .testimonial_page .text {margin:20px 10px;}
+        .testimonial_page .text p::before {left: -20px;}
+        /** testimonial End **/
+    }
+
+    @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation : portrait){
+        /** Blog Start **/ 
+        .blog-text-block{
+            padding: 10px;
+        }    
+        .blog-left{
+            padding: 2px;
+        }
+        .blog-left span {
+            font-size: 10px;
+        }
+        .blog-right{
+            padding: 4px 0px;
+        }
+        .blog-cat a {
+            font-size: 12px;
+        }    
+        .blog-name {
+            font-size: 14px;
+        }
+        .blog-text-block {
+            bottom: 4px;
+        }
+        /** Blog End **/ 
+    }
+
+    @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation : landscape){
+        /** Blog Start **/ 
+        .blog-left span {
+            font-size: 14px;
+        }
+        .blog-cat a {
+            font-size: 14px;
+        }  
+        .blog-name {
+            font-size: 16px;
+        }
+        .blog-text-block {
+            bottom: 5px;
+        }
+        /** Blog End **/    
+    }
+

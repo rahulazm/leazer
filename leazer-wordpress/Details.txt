@@ -1,0 +1,11 @@
+Database name : leazer
+Database Prifix : 
+
+
+Front Website : "leazer_"
+
+
+Demo Agent Login details :
+
+Username : kaushik
+Password : wp@2017#
